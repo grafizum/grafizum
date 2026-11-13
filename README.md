@@ -1,6 +1,6 @@
-# Grafizum
+# Grafizum Command Center
 
-**Grafizum is a command center for developers coordinating AI coding agents across projects.**
+**Grafizum Command Center is the dashboard for developers coordinating AI coding agents across projects.**
 
 One dashboard for projects, tasks, agent status, blockers, project memory and work waiting for review. Claude Code, Cursor, Codex and any other MCP client connect over remote MCP with OAuth and keep the board up to date themselves.
 
