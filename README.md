@@ -37,10 +37,7 @@ claude mcp add --transport http grafizum https://mcp.grafizum.com/mcp
 ```json
 {
   "mcpServers": {
-    "grafizum": {
-      "type": "http",
-      "url": "https://mcp.grafizum.com/mcp"
-    }
+    "grafizum": { "type": "http", "url": "https://mcp.grafizum.com/mcp" }
   }
 }
 ```
